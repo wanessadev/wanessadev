@@ -1,4 +1,4 @@
-# Olá, eu sou a Wanessa Vieira! ✨
+# Olá, eu sou a Wanessa Vieira! ✨ (˶ᵔ ᵕ ᵔ˶) ‹𝟹
 ### Estudante de ADS | Designer | Desenvolvedora Front-end.
 
 🔭 Atualmente sou apenas estudante.
