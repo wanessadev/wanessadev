@@ -33,8 +33,6 @@
   <a href="https://discordapp.com/users/st4rplatinus"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wanessadev/wanessadev/output/github-contribution-grid-snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wanessadev/wanessadev/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wanessadev/wanessadev/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" alt="Gatinho Gamer" />
+</p>
