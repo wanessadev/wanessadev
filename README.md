@@ -8,8 +8,8 @@
 ✨ Ela/dela
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Wanessadev&show_icons=true&theme=radical&bg_color=1c1c1c&title_color=E0BBE4&text_color=ffffff" alt="Estatísticas do GitHub" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wanessadev&layout=compact&theme=radical&bg_color=1c1c1c&title_color=FEC8D8&text_color=ffffff" alt="Linguagens mais usadas" />
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Wanessadev&show_icons=true&theme=radical&bg_color=1c1c1c&title_color=E0BBE4&text_color=ffffff" />
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Wanessadev&layout=compact&theme=radical&bg_color=1c1c1c&title_color=FEC8D8&text_color=ffffff" />
 </p>
 
 ## 💻 Tecnologias e Ferramentas
