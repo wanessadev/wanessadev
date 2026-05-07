@@ -1,11 +1,11 @@
 # Olá, eu sou a Wanessa Vieira! ✨ (˶ᵔ ᵕ ᵔ˶) ‹𝟹
 ### Estudante de ADS | Designer | Desenvolvedora Front-end.
 
-🔭 Sou estudante e estágiaria de T.I 
-🎨 Designer Freelancer com foco em identidades visuais e Social Media.
-🌱 Aprimorando conhecimentos em Java e JavaScript.
-☁️ Tenho 20 anos!
-✨ Ela/dela
+* 🔭 Sou estudante e estágiaria de T.I - infraestrutura 
+* 🎨 Designer Freelancer com foco em identidades visuais e Social Media. 
+* 🌱 Aprimorando conhecimentos em Java e JavaScript.
+* ☁️ Tenho 20 anos!
+* ✨ Ela/dela
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Wanessadev&show_icons=true&theme=radical&bg_color=1c1c1c&title_color=E0BBE4&text_color=ffffff" />
