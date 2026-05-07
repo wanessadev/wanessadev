@@ -1,15 +1,15 @@
 # Olá, eu sou a Wanessa Vieira! ✨ (˶ᵔ ᵕ ᵔ˶) ‹𝟹
 ### Estudante de ADS | Designer | Desenvolvedora Front-end.
 
-🔭 Atualmente sou apenas estudante.
+🔭 Sou estudante e estágiaria de T.I 
 🎨 Designer Freelancer com foco em identidades visuais e Social Media.
 🌱 Aprimorando conhecimentos em Java e JavaScript.
 ☁️ Tenho 20 anos!
 ✨ Ela/dela
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Wanessadev&show_icons=true&theme=radical&bg_color=1c1c1c&title_color=E0BBE4&text_color=ffffff" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wanessadev&layout=compact&theme=radical&bg_color=1c1c1c&title_color=FEC8D8&text_color=ffffff" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Wanessadev&show_icons=true&theme=radical&bg_color=1c1c1c&title_color=E0BBE4&text_color=ffffff" alt="Estatísticas do GitHub" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wanessadev&layout=compact&theme=radical&bg_color=1c1c1c&title_color=FEC8D8&text_color=ffffff" alt="Linguagens mais usadas" />
 </p>
 
 ## 💻 Tecnologias e Ferramentas
