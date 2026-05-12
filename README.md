@@ -19,6 +19,10 @@
 
 ## 💻 Tecnologias e Ferramentas
 
+<p align="center">
+  <img src="https://64.media.tumblr.com/8d2a40cd2666efc2202178d432a595bb/tumblr_inline_n37t5aAxUY1qhwjx8.gif" alt="pixel cats" width="400">
+</p>
+
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
