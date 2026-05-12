@@ -12,6 +12,9 @@
 * ☁️ Tenho 20 anos!
 * ✨ Ela/dela
 
+* Acompanhe meu progresso do 2 semestre de faculdade: [https://wanessadev.github.io/portfolio-radioactive/](https://wanessadev.github.io/portfolio-radioactive/)
+
+
 <p align="center">
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Wanessadev&show_icons=true&theme=radical&bg_color=1c1c1c&title_color=E0BBE4&text_color=ffffff" />
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Wanessadev&layout=compact&theme=radical&bg_color=1c1c1c&title_color=FEC8D8&text_color=ffffff" />
