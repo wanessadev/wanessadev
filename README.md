@@ -1,6 +1,11 @@
 # Olá, eu sou a Wanessa Vieira! ✨ (˶ᵔ ᵕ ᵔ˶) ‹𝟹
 ### Estudante de ADS | Designer | Desenvolvedora Front-end.
 
+<p align="center">
+  <img src="<img width="150" height="30" alt="image" src="https://github.com/user-attachments/assets/7e17a4f0-2eac-4a3e-b52c-ce16b993286a" />
+" alt="gatinhos" width="300">
+</p>
+
 * 🔭 Sou estudante e estágiaria de T.I - infraestrutura 
 * 🎨 Designer Freelancer com foco em identidades visuais e Social Media. 
 * 🌱 Aprimorando conhecimentos em Java e JavaScript.
