@@ -1,9 +1,10 @@
 # Olá, eu sou a Wanessa Vieira! ✨ (˶ᵔ ᵕ ᵔ˶) ‹𝟹
-### Estudante de ADS | Designer | Desenvolvedora Front-end.
 
 <p align="center">
   <img src="https://64.media.tumblr.com/8d2a40cd2666efc2202178d432a595bb/tumblr_inline_n37t5aAxUY1qhwjx8.gif" alt="pixel cats" width="400">
 </p>
+
+### Estudante de ADS | Designer | Desenvolvedora Front-end.
 
 * 🔭 Sou estudante e estágiaria de T.I - infraestrutura 
 * 🎨 Designer Freelancer com foco em identidades visuais e Social Media. 
