@@ -1,7 +1,7 @@
 # Olá, eu sou a Wanessa Vieira! ✨ (˶ᵔ ᵕ ᵔ˶) ‹𝟹
 
 <p align="center">
-  <img src="https://64.media.tumblr.com/8d2a40cd2666efc2202178d432a595bb/tumblr_inline_n37t5aAxUY1qhwjx8.gif" alt="pixel cats" width="400">
+  <img src="https://64.media.tumblr.com/83872ad5c47db999b70642733ccd43b2/9beae4973fea73e3-ce/s1280x1920/ce2c401564b207d08632c0568565d13249347579.webp" width="100%">
 </p>
 
 ### Estudante de ADS | Designer | Desenvolvedora Front-end.
