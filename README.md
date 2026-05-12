@@ -4,6 +4,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/wanessahv/wanessahv/main/image_d268ce.png" alt="gatinhos" width="400">
 </div>
+
 * 🔭 Sou estudante e estágiaria de T.I - infraestrutura 
 * 🎨 Designer Freelancer com foco em identidades visuais e Social Media. 
 * 🌱 Aprimorando conhecimentos em Java e JavaScript.
