@@ -45,5 +45,5 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" alt="Gatinho Gamer" />
+  <img src="[https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif](https://i.pinimg.com/originals/84/0a/ac/840aacc45b8d39e796be96fb364b35f7.gif)" width="250" alt="Gatinho Gamer" />
 </p>
