@@ -6,7 +6,7 @@
 
 ### Estudante de ADS | Designer | Desenvolvedora Front-end.
 
-* 🔭 Sou estudante e estágiaria de T.I - infraestrutura 
+* 🔭 Sou estudante e estágiaria de T.I - infraestrutura + análise de dados
 * 🎨 Designer Freelancer com foco em identidades visuais e Social Media. 
 * 🌱 Aprimorando conhecimentos em Java e JavaScript.
 * ☁️ Tenho 20 anos!
@@ -45,5 +45,5 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/84/0a/ac/840aacc45b8d39e796be96fb364b35f7.gif" width="450" alt="Gatinho Gamer" />
+  <img src="https://i.pinimg.com/originals/84/0a/ac/840aacc45b8d39e796be96fb364b35f7.gif" width="550" alt="Gatinho Gamer" />
 </p>
