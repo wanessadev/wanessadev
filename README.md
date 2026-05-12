@@ -2,8 +2,7 @@
 ### Estudante de ADS | Designer | Desenvolvedora Front-end.
 
 <p align="center">
-  <img src="<img width="150" height="30" alt="image" src="https://github.com/user-attachments/assets/7e17a4f0-2eac-4a3e-b52c-ce16b993286a" />
-" alt="gatinhos" width="300">
+  <img src="https://raw.githubusercontent.com/wanessahv/wanessahv/main/image_d268ce.png" alt="gatinhos" width="400">
 </p>
 
 * 🔭 Sou estudante e estágiaria de T.I - infraestrutura 
