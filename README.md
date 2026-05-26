@@ -51,10 +51,8 @@
   <img src="https://i.pinimg.com/originals/84/0a/ac/840aacc45b8d39e796be96fb364b35f7.gif" width="550" alt="Gatinho Gamer" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wanessadev/wanessadev/pacman-output/galaga-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wanessadev/wanessadev/pacman-output/galaga-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wanessadev/wanessadev/pacman-output/galaga-contribution-graph.svg">
-</picture>
-
-###
+<div align="center">
+  <a href="https://open.spotify.com/user/41c9xbffs9br0e05cej8w4625">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=41c9xbffs9br0e05cej8w4625&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
