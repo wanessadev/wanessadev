@@ -50,3 +50,11 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/84/0a/ac/840aacc45b8d39e796be96fb364b35f7.gif" width="550" alt="Gatinho Gamer" />
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wanessadev/wanessadev/pacman-output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wanessadev/wanessadev/pacman-output/galaga-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wanessadev/wanessadev/pacman-output/galaga-contribution-graph.svg">
+</picture>
+
+###
