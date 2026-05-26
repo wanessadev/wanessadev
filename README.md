@@ -6,7 +6,7 @@
 
 ### Estudante de ADS | Designer | Desenvolvedora Front-end.
 
-* 🔭 Sou estudante e estágiaria de T.I - infraestrutura + análise de dados
+* 🔭 Sou estudante e estágiaria de T.I 
 * 🎨 Designer Freelancer com foco em identidades visuais e Social Media. 
 * 🌱 Aprimorando conhecimentos em Java e JavaScript.
 * ☁️ Tenho 20 anos!
